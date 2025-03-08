@@ -16,7 +16,7 @@ A simple and fast program to create unflagged discord accounts/tokens automatica
 - OPTION: Add Random Hypesquad
 - OPTION: Join Server
 
--  # contact telegram : https://t.me/@anisarino
+-  # contact telegram : https://t.me/anisarino
 - 
 - telegram channel :  https://t.me/toolsgi
 
